@@ -8,7 +8,8 @@ Half Life: Residual Life 1.9 made by Toxagen, ported to Sven Co-op by kmkz. V2.1
 6. Bug Reporting
 7. Download site
 8. Survival
-9. Credits 
+9. Custom versions
+10. Credits 
 
 -------------------------------------------------------------------------------------
  
@@ -68,25 +69,42 @@ about real issues and i am starting to believe they are just trolling.
 
 7. Download site
 
-For now i am using scmapdb.com to store my Sven Co-op maps/ports. This site has has been 
-going downhill in the last years and is not a safe place for mappers to upload their 
-maps since there are clear signs that the administrators may attempt to force random 
-modifications over the maps hidden under the questionable "fixed" tag. Sadly this site 
-has no alternative but i will try to find one.
+https://github.com/kmkz272/
+
+I am using github to store my Sven Co-op ports and scripts since is far better than 
+scmapdb, and so i am not using it anymore. This site has has been going downhill 
+in the last years and is not a safe place for mappers to upload their maps since the 
+incopetent administrators have been pushing and even forcing changes on other users 
+maps based on their personal preferences, often making false reports in hope to gain 
+some kind of legitimacy to push their changes as a way to feel they are somehow 
+supporting the community since they are unwilling to keep themselves on their own 
+projects and make their own maps. Please, do not upload this to scmapdb.
 
 ------------------------------------------------------------------------------------
 
 8. Survival
 
-survival mode is not supported. I am not interested in this poorly maintained feature.
+I do not support survival mode, i am not interested. Over the years there have been 
+many signs from the devs that they are not willing to properly maintain this feature.  
 
 -------------------------------------------------------------------------------------
 
-9. Credits
+9. Custom versions
+
+Avoid making custom versions of this pack. While i have been open to this some time ago
+some people have been disrespecfully doing random changes on maps from the cummunity on 
+scmapdb, making false bug reports and that kind of crap. So, until the enviroment get 
+more healthy do not upload custom versions.
+My DL site is https://github.com/kmkz272/ .If you find custom versions elsewhere these
+are not mine and may have changes forced against my will.  
+
+------------------------------------------------------------------------------------
+
+10. Credits
 - Residual life 1.9 (half-life mod) by toxagen. (Other people are mentioned in in-game 
 credits.) 
 - Port to Sven Co-op by kmkz.
 - The improved NPC models are provided by Garompa. 
 - Weapons and player models taken from Cadaver port of residual life.
 - Lazyripent tool by Zode.
-- Do share modified versions of the maps and this pack. Not even "fixed" versions. 
+- Thanks Levi for bug report list.
