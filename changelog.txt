@@ -57,3 +57,8 @@ rl14 fixed button triggering wrongly the area transition doors.
 rl18: now, weapons are correctly removed.
 rl19: fixed map restarting when you fall off the area.
 
+- v2.3
+11/4/2025
+rl3: barney now can go across areas.
+rl10b,rl11b: fixed packing errors and other issues that disabled the talisman path. 
+
