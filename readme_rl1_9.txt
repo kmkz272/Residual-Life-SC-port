@@ -1,4 +1,4 @@
-Half Life: Residual Life 1.9 made by Toxagen, ported to Sven Co-op by kmkz. V2.3
+Half Life: Residual Life 1.9 made by Toxagen, ported to Sven Co-op by kmkz. V2.3.1
 
 1. Why/description
 2. Important Notes 

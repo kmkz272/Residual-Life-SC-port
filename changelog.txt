@@ -62,3 +62,6 @@ rl19: fixed map restarting when you fall off the area.
 rl3: barney now can go across areas.
 rl10b,rl11b: fixed packing errors and other issues that disabled the talisman path. 
 
+- v2.3.1
+scripts update
+
